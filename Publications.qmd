@@ -1,0 +1,51 @@
+---
+title: "Recent Publications"
+---
+
+### Journal Article
+
+-   **Salvacion, A.R** (2022) *Delineating village-level drought risk in Marinduque Island, Philippines*. Natural Hazards 116: 2993–3014. {{< ai doi >}}[10.1007/s11069-022-05795-w](https://doi.org/10.1007/s11069-022-05795-w)
+
+- Kerry, R., Ingram, B., Ortiz, B.V., **Salvacion, A.R** (2022) *Using soil, plant, topographic and remotely sensed data to determine the best method for defining aflatoxin contamination risk zones within fields for precision management*. Agronomy 12 (10):2524. {{< ai doi >}}[10.3390/agronomy12102524](https://doi.org/10.3390/agronomy12102524)
+
+- **Salvacion, A.R** (2022) *Measuring spatial accessibility of healthcare facilities in Marinduque, Philippines*. ISPRS International Journal of Geo-Information 11 (10): 516. {{< ai doi >}}[10.3390/ijgi11100516](https://doi.org/10.3390/ijgi11100516)
+
+- Asaad A.B., **Salvacion, A.R.**,Yen, B.T. (2022) *ALUES: R package for Agricultural Land Use Evaluation System* Journal of Open Source Software, 7(73), 4228. {{< ai doi >}}[10.21105/joss.04228](https://doi.org/10.21105/joss.04228)
+
+- **Salvacion, A.R** (2022) *COVID 19 susceptibility mapping using GIS and Principal Component Analysis: A case study for Marinduque Island, Philippines*. Spatial Information Research 30 (5): 563 - 570. {{< ai doi >}}[10.1007/s41324-022-00444-7](https://doi.org/10.1007/s41324-022-00444-7)
+
+- Rico, E.R., Lutero, D.SM., Nazareno, A.L., **Salvacion, A.R**. (2022) *A spatiotemporal optimization model of crop rotation plan for Marinduque, Philippines*. Spatial Information Research 30 (4): 461-467. {{< ai doi >}}[10.1007/s41324-022-00435-8](https://doi.org/10.1007/s41324-022-00435-8)
+
+- Blanco, N.F.D., **Salvacion, A.R**., Devanadera, M.C.E., Sandalo, R.M., Abucay, E.R. (2022). *Characterizing malaria spatial distribution in the province of Palawan, Philippines*. Spatial Information Research 30 (2):279–289. {{< ai doi >}} [10.1007/s41324-022-00429-6](https://doi.org/10.1007/s41324-022-00429-6)
+
+- Lutero, D.SM., Cerilo, G.E.,Eustaquio, A., Buhat, C.A., Nazareno, A., Nazareno, A.L., **Salvacion, A.R.** (2021) *Optimal Route for Island Day Tours in Marinduque, Philippines*. Spatial Information Research 30 (2):205–214. {{< ai doi >}} [10.1007/s41324-021-00424-3](https://doi.org/10.1007/s41324-021-00424-3)
+
+- **Salvacion, A.R** (2021) *Mapping meteorological drought hazard in the Philippines using SPI and SPEI*. Spatial Information Research 29 (6): 949–960. {{< ai doi >}} [10.1007/s41324-021-00402-9](https://doi.org/10.1007/s41324-021-00402-9)
+
+- **Salvacion, A.R.** (2020) *Delineating soil erosion risk in Marinduque, Philippines using RUSLE*. GeoJournal 87 (2):423–435. {{< ai doi >}} [10.1007/s10708-020-10264-7](https://doi.org/10.1007/s10708-020-10264-7)
+
+- **Salvacion, A.R.** (2019) *Mapping land limitations for agricultural land use planning using fuzzy Logic
+Approach:A case study for Marinduque Island, Philippines*. GeoJournal 86 (2):915-925. {{< ai doi >}} [10.1007/s10708-019-10103-4](https://doi.org/10.1007/s10708-019-10103-4)
+
+- **Salvacion, A.R.**, Solpot, T.C., Cumagun, C.J.R., Pangga, I.B., Magcale-Macandog, D.B., Cruz, P.C.S., Saludes, R.B., Aguilar, E.A. (2019) *Exploring environmental determinants of Fusarium wilt occurrence on banana in South Central Mindanao, Philippines*. Hellenic Plant Protection Journal 12 (2):78-90. {{< ai doi >}}[10.2478/hppj-2019-0008](https://doi.org/10.2478/hppj-2019-0008)
+
+- **Salvacion, A.R.** (2019) *Effect of climate on provincial-level banana yield in the Philippines*. Information Processing in Agriculture 7 (1):50-57. {{< ai doi >}}[10.1016/j.inpa.2019.05.005](https://doi.org/10.1016/j.inpa.2019.05.005)
+
+- **Salvacion, A.R.**, Cumagun, C.J.R., Pangga, I.B., Magcale-Macandog, D.B., Cruz, P.C.S., Saludes, R.B., Solpot,T.C., Aguilar, E.A. (2019) *Banana suitability and Fusarium wilt distribution in the Philippines under climate change*.Spatial Information Research 27  (3):339-349. {{< ai doi >}}[10.1007/s41324-019-00239-3](https://doi.org/10.1007/s41324-019-00239-3)
+
+### Book Chapter
+
+- **Salvacion, A.R.**, Lutero, D.SM, Abucay, Nazareno, A. A., Pangga, I. B. (2024) *Mapping Flood Hazard in Marinduque, Philippines using Maximum Entropy* In: Geo-Environmental Hazards using AI-enabled Geospatial Techniques and Earth Observation Systems. Tanupriya Choudhury, Bappaditya Koley, Anindita Nath, Jung-Sup Um, Atul Kumar Patidar. Springer Nature Switzerland {{< ai doi >}}[10.1007/978-3-031-53763-9_10](https://doi.org/10.1007/978-3-031-53763-9_10)
+
+- Magcale-Macandog, D.B., **Salvacion, A.R.**, Pabico, J.P., Tingson, K.N., Reblora,  M.A, Edrial, J.D., Lansigan, F.P., Zafaralla, M.T. (2023) *Developing a Bayesian Model of Climate-Induced Lake Overturn in Talisay,Taal Lake.* In: Ecosystem and Species Habitat Modeling for Conservation and Restoration. Shalini Dhyani, Dibyendu Adhikari,Rajarshi Dasgupta, Rakesh Kadaverugu (Eds.) Springer Singapore. pp 101-119 {{< ai doi >}}[10.1007/978-981-99-0131-9_6](https://doi.org/10.1007/978-981-99-0131-9_6)
+
+- **Salvacion, A.R.** (2023) *Soil Erosion Modeling Under Future Climate Change: A case study in Marinduque Island,Philippines*. In: Water, Land, and Forest Susceptibility and Sustainability. Geospatial Approaches and Modeling. Uday Chatterjee, Biswajeet Pradhan, Suresh Kumar, Suresh Kumar Subbiah, Sourav Saha, Mohammad Zakwan (Eds.) Elsevier. pp 381-398. {{< ai doi >}}[10.1016/B978-0-323-91880-0.00012-X](https://doi.org/10.1016/B978-0-323-91880-0.00012-X)
+
+- Lutero, D.S.M., Malaguit, J.C., Relente, M.J.L., Nazareno, A.L., **Salvacion, A.R.** (2022) *Fuzzy logic modeling of groundwater potential in Marinduque, Philippines*. In: Water Resources Modeling and Computational Technologies. Current Directions in Water Scarcity Research Volume 7. Mohammad Zakwan, Abdul Wahid, Majid Niazkar, Uday Chatterjee (Eds.) Elsevier. pp 57-70. {{< ai doi >}}[10.1016/B978-0-323-91910-4.00004-2](https://doi.org/10.1016/B978-0-323-91910-4.00004-2)
+
+- **Salvacion, A.R.**, Devanadera, M.C.E., Paro, F.R.C., Lecciones, A.J.M., Eligue, J.C.L. (2022) *Flood Vulnerability Assessment in Marinduque, Philippines Using Fuzzy Logic and Principal Component Analysis*. In: The Routledge Handbook of Sustainable Cities and Landscapes in the Pacific Rim. Yizhao Yang, Anne Taufen (Eds). Routledge. pp. 66-79 {{< ai doi >}}[10.4324/9781003033530-7](https://doi.org/10.4324/9781003033530-7)
+
+- **Salvacion, A.R.** (2022) *Groundwater Potential Mapping using Maximum Entropy*. In: Water Resources Management and Sustainability. Advances in Geographical and Environmental Sciences. Pankaj Kumar, Gaurav Kant
+Nigam, Manish Kumar Sinha, Anju Singh (Eds). Springer Singapore. pp. 239-256. {{< ai doi >}}[10.1007/978-981-16-6573-8_13](https://doi.org/10.1007/978-981-16-6573-8_13)
+
+- **Salvacion, A.R** (2022) *Multi-scale Drought Hazard assessment in the Philippines*. In: Computers in Earth and Environmental Sciences. Pourghasemi, Hamid Reza (Ed). Elsevier. pp. 169-179.{{< ai doi >}}[10.1016/B978-0-323-89861-4.00024-5](https://doi.org/10.1016/B978-0-323-89861-4.00024-5)

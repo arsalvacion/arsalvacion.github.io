@@ -1,0 +1,19 @@
+---
+title: "Arnold Salvacion"
+about:
+    template: trestles
+    links:
+        - icon: linkedin
+          text: LinkedIn
+          url: https://www.linkedin.com/in/arnold-salvacion-98166949/
+        - icon: github
+          text: Github
+          url: https://github.com/arsalvacion
+        - text: "{{< ai orcid >}} 0000-0001-8868-2226"
+          url: https://orcid.org/0000-0001-8868-2226
+        - text: "{{< ai google-scholar >}} Google Scholar"
+          url: https://scholar.google.com/citations?user=OH852c8AAAAJ&hl=en
+          
+image: prof.jpeg
+comments: false
+---

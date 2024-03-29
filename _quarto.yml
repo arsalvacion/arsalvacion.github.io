@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+
+website:
+  title: ""
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Publications.qmd
+        text: Publications
+      - href: Projects.qmd
+        text: Projects
+
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

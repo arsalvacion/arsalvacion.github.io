@@ -1,0 +1,31 @@
+---
+title: "Arnold Salvacion"
+about:
+    template: trestles
+    links:
+        - icon: github
+          text: Github
+          url: https://github.com/arsalvacion
+        - icon: linkedin
+          text: LinkedIn
+          url: https://www.linkedin.com/in/arnold-salvacion-98166949/
+        - text: "{{< ai clarivate >}} Web of Science"
+          url: https://www.webofscience.com/wos/author/record/1040244
+        - text: "{{< ai scopus >}} Scopus"
+          url: https://www.scopus.com/authid/detail.uri?authorId=56090830200
+        - text: "{{< ai orcid >}} 0000-0001-8868-2226"
+          url: https://orcid.org/0000-0001-8868-2226
+        - text: "{{< ai researchgate >}} ResearchGate"
+          url: https://www.researchgate.net/profile/Arnold-Salvacion
+        - text: "{{< ai google-scholar >}} Google Scholar"
+          url: https://scholar.google.com/citations?user=OH852c8AAAAJ&hl=en
+          
+image: prof.jpg
+comments: false
+---
+
+## About Me
+
+I am a Research Fellow in Geospatial Data Science at the Curtin for Agribusiness Profitability (C4AP) of the Centre for Crop and Disease Management, Curtin University. I lead and support the C4AP data scientists and analysts in the development of diffent data pipelines (i.e., ingestion, cleaning, and visualizaton) to build the Agri Analytics Hub for the Western Australian grain farmers.
+
+I received a PhD (by Research) in Environmental Science from the University of the Philippines Los Baños (UPLB). Prior to joining Curtin, I am an Associate Professor at the Deparment of Community and Environmental Resource Planning (DCERP), College of Human Ecology (CHE), UPLB. I am the founding Editor-in-Chief of the [Journal of Human Ecology and Sustainability](https://jhes.uplb.edu.ph/). I also serves as reviewer for numerous journals and sits on the editorial board of [SN Social Sciences](https://link.springer.com/journal/43545), [PeerJ](https://peerj.com/arsalvacion/), and [Spatial Information Research](https://link.springer.com/journal/41324/editors).
