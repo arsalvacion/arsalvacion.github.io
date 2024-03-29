@@ -26,6 +26,6 @@ comments: false
 
 ## About Me
 
-I am a Research Fellow in Geospatial Data Science at the Curtin for Agribusiness Profitability (C4AP) of the Centre for Crop and Disease Management, Curtin University. I lead and support the C4AP data scientists and analysts in the development of diffent data pipelines (i.e., ingestion, cleaning, and visualizaton) to build the Agri Analytics Hub for the Western Australian grain farmers.
+I am a Research Fellow in Geospatial Data Science at the Curtin for Agribusiness Profitability (C4AP) of the Centre for Crop and Disease Management, Curtin University. I lead and support the C4AP data scientists and analysts in the development of diffent data pipelines (i.e., ingestion, cleaning, and visualizaton) to build the Agri-analytics Hub for the Western Australian grain farmers.
 
 I received a PhD (by Research) in Environmental Science from the University of the Philippines Los Baños (UPLB). Prior to joining Curtin, I am an Associate Professor at the Deparment of Community and Environmental Resource Planning (DCERP), College of Human Ecology (CHE), UPLB. I am the founding Editor-in-Chief of the [Journal of Human Ecology and Sustainability](https://jhes.uplb.edu.ph/). I also serves as reviewer for numerous journals and sits on the editorial board of [SN Social Sciences](https://link.springer.com/journal/43545), [PeerJ](https://peerj.com/arsalvacion/), and [Spatial Information Research](https://link.springer.com/journal/41324/editors).
