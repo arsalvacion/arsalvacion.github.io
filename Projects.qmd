@@ -1,7 +1,5 @@
 ### Agri-analytics Hub
 
-Under the leadership of Dr. Julia Easton and Professor Mark Gibberd, the project seeks to develop a research-based analytics and decision support tool that will allow farmers and their advisors to increase profitability and optimise risk management. 
+Under the leadership of Dr. Julia Easton and Professor Mark Gibberd, the project seeks to develop a research-based analytics and decision support tool that will allow farmers and their advisors to increase profitability and optimise risk management.
 
-The Agri-analytics Hub will allow visualisation and analysis of within paddock variability in crop performance and profitability. It also enables users to robustly plan, implement and analyse the outputs of alternative management practices. The Hub will enable users to extend results of experimental outcomes to similar land management units. Collectively this capability will enable farmers to more readily engage with spatial variation in crop performance, to test solutions and then to estimate the likely economic impact of adoption based on results obtained from their own production system.
-
-
+The [Agri-analytics Hub](https://www.foodagility.com/research/agri-analytics-hub) will allow visualisation and analysis of within paddock variability in crop performance and profitability. It also enables users to robustly plan, implement and analyse the outputs of alternative management practices. The Hub will enable users to extend results of experimental outcomes to similar land management units. Collectively this capability will enable farmers to more readily engage with spatial variation in crop performance, to test solutions and then to estimate the likely economic impact of adoption based on results obtained from their own production system.
