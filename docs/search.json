@@ -25,7 +25,7 @@
     "href": "Projects.html",
     "title": "",
     "section": "",
-    "text": "Under the leadership of Dr. Julia Easton and Professor Mark Gibberd, the project seeks to develop a research-based analytics and decision support tool that will allow farmers and their advisors to increase profitability and optimise risk management.\nThe Agri-analytics Hub will allow visualisation and analysis of within paddock variability in crop performance and profitability. It also enables users to robustly plan, implement and analyse the outputs of alternative management practices. The Hub will enable users to extend results of experimental outcomes to similar land management units. Collectively this capability will enable farmers to more readily engage with spatial variation in crop performance, to test solutions and then to estimate the likely economic impact of adoption based on results obtained from their own production system."
+    "text": "The Digital Edge project aims to enhance climate resilience in eastern wheatbelt of WA by helping farmers and agronomist use farm data to improve profitability and sustainability at paddock, farm, and farm enterprise level."
   },
   {
     "objectID": "Projects.html#on-farm-water-demand",
@@ -38,8 +38,8 @@
     "objectID": "Projects.html#agri-analytics-hub",
     "href": "Projects.html#agri-analytics-hub",
     "title": "",
-    "section": "",
-    "text": "Under the leadership of Dr. Julia Easton and Professor Mark Gibberd, the project seeks to develop a research-based analytics and decision support tool that will allow farmers and their advisors to increase profitability and optimise risk management.\nThe Agri-analytics Hub will allow visualisation and analysis of within paddock variability in crop performance and profitability. It also enables users to robustly plan, implement and analyse the outputs of alternative management practices. The Hub will enable users to extend results of experimental outcomes to similar land management units. Collectively this capability will enable farmers to more readily engage with spatial variation in crop performance, to test solutions and then to estimate the likely economic impact of adoption based on results obtained from their own production system."
+    "section": "Agri-analytics Hub",
+    "text": "Agri-analytics Hub\nUnder the leadership of Dr. Julia Easton and Professor Mark Gibberd, the project seeks to develop a research-based analytics and decision support tool that will allow farmers and their advisors to increase profitability and optimise risk management.\nThe Agri-analytics Hub will allow visualisation and analysis of within paddock variability in crop performance and profitability. It also enables users to robustly plan, implement and analyse the outputs of alternative management practices. The Hub will enable users to extend results of experimental outcomes to similar land management units. Collectively this capability will enable farmers to more readily engage with spatial variation in crop performance, to test solutions and then to estimate the likely economic impact of adoption based on results obtained from their own production system."
   },
   {
     "objectID": "index.html#awards-and-recognition",
@@ -47,5 +47,12 @@
     "title": "Arnold Salvacion",
     "section": "Awards and Recognition",
     "text": "Awards and Recognition\n\nOutstanding Young Scientist (2021) - National Academy of Science and Technology\nUP Scienitst I (2020-2022) - University of the Philippines Systems\nOneUP Professorial Chair Grant for Research and Public Service (Environmental Science) (2022-2024) - University of the Philippines Systems\nEnhanced Creative Work and Research Grant (ECWRG) (2021-2022) - University of the Philippines Systems\nOneUP Faculty Grant for Teaching and Research (Environmental Science) (2019-2021) - University of the Philippines Systems\nUP International Publications Awards (17) (2015-2023) - University of the Philippines Systems"
+  },
+  {
+    "objectID": "Projects.html#digital-edge",
+    "href": "Projects.html#digital-edge",
+    "title": "",
+    "section": "",
+    "text": "The Digital Edge project aims to enhance climate resilience in eastern wheatbelt of WA by helping farmers and agronomist use farm data to improve profitability and sustainability at paddock, farm, and farm enterprise level."
   }
 ]
