@@ -1,7 +1,3 @@
-## Digital Edge 
-
-The [Digital Edge](https://hub.gga.org.au/next-generation-agribusiness-analytics-for-the-eastern-wheatbelt-curtin-university/) project aims to enhance climate resilience in eastern wheatbelt of WA by helping farmers and agronomist use farm data to improve profitability and sustainability at paddock, farm, and farm enterprise level.
-
 ## Agri-analytics Hub
 
 Under the leadership of Dr. Julia Easton and Professor Mark Gibberd, the project seeks to develop a research-based analytics and decision support tool that will allow farmers and their advisors to increase profitability and optimise risk management.
@@ -11,3 +7,7 @@ The [Agri-analytics Hub](https://www.foodagility.com/research/agri-analytics-hub
 ## On-Farm Water Demand
 
 The [On-Farm Water Demand Project](https://www.foodagility.com/research/on-farm-water-demand) aims to deliver Putting real-time water usage data into the hands of farmers in Manjimup, WA, to enable accurate assessment of the economic value of water for irrigation to agribusinesses and to the community.
+
+## Digital Edge
+
+The [Digital Edge](https://hub.gga.org.au/next-generation-agribusiness-analytics-for-the-eastern-wheatbelt-curtin-university/) project aims to enhance climate resilience in eastern wheat belt of WA by helping farmers and agronomist use farm data to improve profitability and sustainability at paddock, farm, and farm enterprise level.
