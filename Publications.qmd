@@ -4,6 +4,8 @@ title: "Recent Publications"
 
 ### Journal Articles
 
+-   **Salvacion, A.R** (2025) *Geospatial information research in the Philippines: a bibliometric analysis*. Spatial Information Research 33 (5): 1-12. {{< ai doi >}}[10.1007/s41324-025-00642-z](https://doi.org/10.1007/s41324-025-00642-z)
+
 -   **Salvacion, A.R** (2022) *Delineating village-level drought risk in Marinduque Island, Philippines*. Natural Hazards 116: 2993–3014. {{< ai doi >}}[10.1007/s11069-022-05795-w](https://doi.org/10.1007/s11069-022-05795-w)
 
 -   Kerry, R., Ingram, B., Ortiz, B.V., **Salvacion, A.R** (2022) *Using soil, plant, topographic and remotely sensed data to determine the best method for defining aflatoxin contamination risk zones within fields for precision management*. Agronomy 12 (10):2524. {{< ai doi >}}[10.3390/agronomy12102524](https://doi.org/10.3390/agronomy12102524)
