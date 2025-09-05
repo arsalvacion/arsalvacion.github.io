@@ -4,7 +4,7 @@ title: "Recent Publications"
 
 ### Journal Articles
 
--   Calma, J.D., Pizon, M.G., Lutero, D.S. **Salvacion, A.R**, Nazareno, A.L. (2025) *Knowledge-based landslide sus- ceptibility mapping using fuzzy Logic approach in Mindoro Island, Philippines*. Earth Systems and Environment {{< ai doi >}}[10.1007/s41748-025-00795-9](https://doi.org/10.1007/s41748-025-00795-9)
+-   Calma, J.D., Pizon, M.G., Lutero, D.S. **Salvacion, A.R**, Nazareno, A.L. (2025) *Integrating Expert Knowledge and Fuzzy Logic for Landslide Susceptibility Mapping: A Case Study of Mindoro Island, Philippines*. Earth Systems and Environment {{< ai doi >}}[10.1007/s41748-025-00795-9](https://doi.org/10.1007/s41748-025-00795-9)
 
 -   **Salvacion, A.R** (2025) *Geospatial information research in the Philippines: a bibliometric analysis*. Spatial Information Research 33 (5): 1-12. {{< ai doi >}}[10.1007/s41324-025-00642-z](https://doi.org/10.1007/s41324-025-00642-z)
 
