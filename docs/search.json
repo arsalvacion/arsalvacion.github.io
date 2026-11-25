@@ -25,7 +25,7 @@
     "href": "Projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Under the leadership of Dr. Julia Easton and Professor Mark Gibberd, the project seeks to develop a research-based analytics and decision support tool that will allow farmers and their advisors to increase profitability and optimise risk management.\nThe Agri-analytics Hub will allow visualisation and analysis of within paddock variability in crop performance and profitability. It also enables users to robustly plan, implement and analyse the outputs of alternative management practices. The Hub will enable users to extend results of experimental outcomes to similar land management units. Collectively this capability will enable farmers to more readily engage with spatial variation in crop performance, to test solutions and then to estimate the likely economic impact of adoption based on results obtained from their own production system."
+    "text": "The Soil-Borne Disease Initiative (SBDI) is a collaborative research program focused on improving the understanding, detection and management of soil-borne diseases affecting Australian grain production.\nProgram 2 is developing practical methods to identify and map areas of potential soil-borne disease risk within paddocks. The project combines satellite imagery and environmental data with field observations and PREDICTA®B soil testing to investigate how disease risk varies spatially and to identify areas where targeted sampling may be most useful.\nThe aim is to develop a repeatable approach for mapping potential disease-affected areas at the paddock scale. This information can support more targeted disease assessment and contribute to understanding yield and economic impacts, helping growers and agronomists make more informed management decisions."
   },
   {
     "objectID": "Projects.html#on-farm-water-demand",
@@ -38,8 +38,8 @@
     "objectID": "Projects.html#agri-analytics-hub",
     "href": "Projects.html#agri-analytics-hub",
     "title": "Projects",
-    "section": "",
-    "text": "Under the leadership of Dr. Julia Easton and Professor Mark Gibberd, the project seeks to develop a research-based analytics and decision support tool that will allow farmers and their advisors to increase profitability and optimise risk management.\nThe Agri-analytics Hub will allow visualisation and analysis of within paddock variability in crop performance and profitability. It also enables users to robustly plan, implement and analyse the outputs of alternative management practices. The Hub will enable users to extend results of experimental outcomes to similar land management units. Collectively this capability will enable farmers to more readily engage with spatial variation in crop performance, to test solutions and then to estimate the likely economic impact of adoption based on results obtained from their own production system."
+    "section": "Agri-analytics Hub",
+    "text": "Agri-analytics Hub\nThe project seeks to develop a research-based analytics and decision support tool that will allow farmers and their advisors to increase profitability and optimise risk management.\nThe Agri-analytics Hub will allow visualisation and analysis of within paddock variability in crop performance and profitability. It also enables users to robustly plan, implement and analyse the outputs of alternative management practices. The Hub will enable users to extend results of experimental outcomes to similar land management units. Collectively this capability will enable farmers to more readily engage with spatial variation in crop performance, to test solutions and then to estimate the likely economic impact of adoption based on results obtained from their own production system."
   },
   {
     "objectID": "index.html#awards-and-recognition",
@@ -54,5 +54,19 @@
     "title": "Projects",
     "section": "Digital Edge",
     "text": "Digital Edge\nThe Digital Edge project aims to enhance climate resilience in eastern wheat belt of WA by helping farmers and agronomist use farm data to improve profitability and sustainability at paddock, farm, and farm enterprise level."
+  },
+  {
+    "objectID": "Projects.html#soil-borne-disease-initiative-mapping",
+    "href": "Projects.html#soil-borne-disease-initiative-mapping",
+    "title": "Projects",
+    "section": "",
+    "text": "Soil-borne diseases can vary considerably within a paddock, but this spatial variation is difficult to identify using conventional sampling alone. The Soil-Borne Disease Mapping Project is developing practical methods to identify and map areas of potential disease risk within Australian grain-growing paddocks.\nThe project combines satellite imagery and environmental information with field observations and PREDICTA®B soil testing to investigate where disease is likely to occur and how disease patterns vary across a paddock. The aim is to develop a repeatable spatial mapping approach that can help guide targeted soil sampling and provide a clearer picture of the area potentially affected by soil-borne disease.\nBy improving understanding of where disease risk occurs within paddocks, the project will support more informed disease assessment and management. The resulting maps and information are also intended to contribute to estimates of yield and economic impacts, helping growers and agronomists make better-informed management decisions."
+  },
+  {
+    "objectID": "Projects.html#soil-borne-disease-initiative-program-2",
+    "href": "Projects.html#soil-borne-disease-initiative-program-2",
+    "title": "Projects",
+    "section": "",
+    "text": "The Soil-Borne Disease Initiative (SBDI) is a collaborative research program focused on improving the understanding, detection and management of soil-borne diseases affecting Australian grain production.\nProgram 2 is developing practical methods to identify and map areas of potential soil-borne disease risk within paddocks. The project combines satellite imagery and environmental data with field observations and PREDICTA®B soil testing to investigate how disease risk varies spatially and to identify areas where targeted sampling may be most useful.\nThe aim is to develop a repeatable approach for mapping potential disease-affected areas at the paddock scale. This information can support more targeted disease assessment and contribute to understanding yield and economic impacts, helping growers and agronomists make more informed management decisions."
   }
 ]
